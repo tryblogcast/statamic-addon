@@ -1,0 +1,6 @@
+name: Blogcast
+version: '1.0'
+description: 'Embed the Blogcast player on Statamic'
+url: 'https://blogcast.host'
+developer: 'Miguel Piedrafita'
+developer_url: 'https://miguelpiedrafita.com'

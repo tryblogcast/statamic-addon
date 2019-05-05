@@ -1,0 +1,10 @@
+{
+    "name": "tryblogcast/statamic",
+    "description": "Embed the Blogcast player on Statamic",
+    "authors": [
+        {
+            "name": "Miguel Piedrafita",
+            "email": "soy@miguelpiedrafita.com"
+        }
+    ]
+}
